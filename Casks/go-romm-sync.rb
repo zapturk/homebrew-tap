@@ -1,6 +1,6 @@
 cask "go-romm-sync" do
-  version "0.2.6"
-  sha256 "5f5e87141542390b290b3b229c199e33cba5154d7a5ab9c055bd391f3fa4290d"
+  version "0.2.7"
+  sha256 "7edb8de6586711bb4d832c8f4e72b7f70969510700809a03bf31287de7931772"
 
   url "https://github.com/zapturk/Go-RomM-Sync/releases/download/v#{version}/go-romm-sync-macos.zip"
   name "Go-RomM-Sync"
